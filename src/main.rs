@@ -17,4 +17,6 @@ fn main() {
      .expect("Falló al leer la línea");
 
     println!("Has adivinado: {guess}");
+
+    // prueba de algun cambio para un nuevo branch
 }
